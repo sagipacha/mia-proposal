@@ -14,7 +14,7 @@ body {
     padding: 20px;
     border-radius: 20px;
     width: 90%;
-    max-width: 428px; /* Max width of iPhone 13 Pro Max */
+    max-width: 428px; 
     height: auto;
     text-align: center;
 }
