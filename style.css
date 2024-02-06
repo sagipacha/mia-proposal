@@ -1,9 +1,8 @@
 body {
+    margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
     background-color: #f5f5f5; 
-    background-image: url('https://www.seekpng.com/png/full/86-866288_heart-transparent-love-wallpaper-background-heart-background.png'); 
-    background-size: cover;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -17,6 +16,9 @@ body {
     max-width: 428px; 
     height: auto;
     text-align: center;
+    background-image: url('https://www.seekpng.com/png/full/86-866288_heart-transparent-love-wallpaper-background-heart-background.png'); 
+    background-size: cover;
+    background-position: center;
 }
 
 .loveImg {
