@@ -1,0 +1,44 @@
+body {
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5; 
+    background-image: url('https://www.seekpng.com/png/full/86-866288_heart-transparent-love-wallpaper-background-heart-background.png'); 
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    padding: 20px;
+    border-radius: 20px;
+    width: 90%;
+    max-width: 428px; /* Max width of iPhone 13 Pro Max */
+    height: auto;
+    text-align: center;
+}
+
+.loveImg {
+    max-width: 100%;
+    margin-top: 20px;
+}
+
+.proposal {
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+.yesButton {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.yesButton:hover {
+    background-color: yellow;
+}
